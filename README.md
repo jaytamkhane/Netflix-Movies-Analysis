@@ -1,4 +1,4 @@
-🎬 Netflix Movies Analysis 🎥
+🎬 Netflix Movies Analysis
 
 📌 Overview
 
@@ -36,8 +36,8 @@ The dataset used for this analysis contains information about Netflix movies, in
 📁 Files Structure
 
 - [📒 Netflix-Movies-Analysis.ipynb](https://github.com/jaytamkhane/Netflix-Movies-Analysis/blob/main/Netflix%20Movies%20Analysis.ipynb)            # Jupyter notebooks for analysis
-- [📜 README.md]                                 # Project documentation
-- [📜 summary.pdf](https://github.com/jaytamkhane/Netflix-Movies-Analysis/blob/main/Netflix_Movies_Analysis_Summary.pdf)                             # Project documentation
+- [📜 README.md](https://github.com/jaytamkhane/Netflix-Movies-Analysis/blob/main/README.md)                                                        # Project documentation
+- [📜 summary.pdf](https://github.com/jaytamkhane/Netflix-Movies-Analysis/blob/main/Netflix_Movies_Analysis_Summary.pdf)                            # Project documentation
 
 
 🔥📊 Key Findings
