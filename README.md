@@ -8,17 +8,17 @@ This project focuses on analyzing Netflix movies using various data analysis tec
 
 The dataset used for this analysis contains information about Netflix movies, including:
 
-🎞 Title 🎬
+- 🎞 Title
 
-🎭 Genre 🎨
+- 🎭 Genre
 
-📅 Release Year 🗓️
+- 📅 Release Year
 
-⭐ Ratings 🌟
+- ⭐ Ratings
 
-📝 Description 🖊️
+- 📝 Description
 
-📊 Other relevant attributes 📈
+- 📊 Other relevant attributes
 
 🎯 Objectives
 
@@ -35,20 +35,20 @@ The dataset used for this analysis contains information about Netflix movies, in
 
 📁 Files Structure
 
-│-- 📒              # Jupyter notebooks for analysis
-│-- 📜 README.md             # Project documentation
-│-- 📜 summary.pdf           # Project documentation
+- [📒 Netflix-Movies-Analysis.ipynb](https://github.com/jaytamkhane/Netflix-Movies-Analysis/blob/main/Netflix%20Movies%20Analysis.ipynb)            # Jupyter notebooks for analysis
+- [📜 README.md]                                 # Project documentation
+- [📜 summary.pdf](https://github.com/jaytamkhane/Netflix-Movies-Analysis/blob/main/Netflix_Movies_Analysis_Summary.pdf)                             # Project documentation
 
 
 🔥📊 Key Findings
 
-Top Genres 🎭: Drama, Comedy and Thriller
+- Top Genres 🎭: Drama, Comedy and Thriller
 
-Rating Distribution ⭐: Popular, Average, Below Average, Not Popular
+- Rating Distribution ⭐: Popular, Average, Below Average, Not Popular
 
-Release Trends 📅: 1900 to 2010 constant, Peak Incline in 2020 
+- Release Trends 📅: 1900 to 2010 constant, Peak Incline in 2020 
 
-Popular Movies 🎬: Spiderman no Way Home, The Batman and No Exist
+- Popular Movies 🎬: Spiderman no Way Home, The Batman and No Exist
 
 🤝🌟 Contribution
 
