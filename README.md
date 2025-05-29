@@ -1,46 +1,50 @@
-🎬 Netflix Movies Analysis
+# 🎬 Netflix Movies Analysis
 
-📌 Overview
+## 📌 Overview
 
 This project focuses on analyzing Netflix movies using various data analysis techniques. The goal is to extract meaningful insights from the dataset, including trends in movie genres, ratings, release years, and other key attributes. 📽️
 
-📂 Dataset
+---
 
-The dataset used for this analysis contains information about Netflix movies, including:
+## 📂 Dataset
 
-- 🎞 Title
+![Dataset Sample](Project%20Images/Dataset.png)
 
-- 🎭 Genre
+---
 
-- 📅 Release Year
+## 🎯 Objectives
+- Clean and preprocess the data 
+- Perform exploratory data analysis (EDA)
+- Identify trends and patterns in Netflix movies
+- Visualize key insights using Python (Jupyter notebook)
 
-- ⭐ Ratings
+---
 
-- 📝 Description
+## Screen Shots
+<div align="center">
+    <img src="Project%20Images/pop movies.png" width="300"/>
+    <img src="Project%20Images/pop Genres.png" width="300"/>
+    <img src="Project%20Images/common Lang.png" width="300"/>
+</div>
 
-- 📊 Other relevant attributes
+---
 
-🎯 Objectives
+##  Technologies & Tools Used
 
-✅ Clean and preprocess the data 🧹
-✅ Perform exploratory data analysis (EDA)
-✅ Identify trends and patterns in Netflix movies 🎭
-✅ Visualize key insights using Python (Jupyter notebook)
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Jupyter Notebook
 
-🛠🖥️ Technologies Used
+---
 
-🐍 Python (Pandas, NumPy, Matplotlib, Seaborn)
+## 📁 Files Structure
 
-📓 Jupyter Notebook
+- [Netflix-Movies-Analysis.ipynb](https://github.com/jaytamkhane/Netflix-Movies-Analysis/blob/main/Netflix%20Movies%20Analysis.ipynb)            # Jupyter notebooks for analysis
+- [README.md](https://github.com/jaytamkhane/Netflix-Movies-Analysis/blob/main/README.md)                                                        # Project documentation
+- [summary.pdf](https://github.com/jaytamkhane/Netflix-Movies-Analysis/blob/main/Netflix_Movies_Analysis_Summary.pdf)                            # Project documentation
 
-📁 Files Structure
+---
 
-- [📒 Netflix-Movies-Analysis.ipynb](https://github.com/jaytamkhane/Netflix-Movies-Analysis/blob/main/Netflix%20Movies%20Analysis.ipynb)            # Jupyter notebooks for analysis
-- [📜 README.md](https://github.com/jaytamkhane/Netflix-Movies-Analysis/blob/main/README.md)                                                        # Project documentation
-- [📜 summary.pdf](https://github.com/jaytamkhane/Netflix-Movies-Analysis/blob/main/Netflix_Movies_Analysis_Summary.pdf)                            # Project documentation
-
-
-🔥📊 Key Findings
+## Key Findings
 
 - Top Genres 🎭: Drama, Comedy and Thriller
 
@@ -50,6 +54,8 @@ The dataset used for this analysis contains information about Netflix movies, in
 
 - Popular Movies 🎬: Spiderman no Way Home, The Batman and No Exist
 
-🤝🌟 Contribution
+---
+
+## Contribution
 
 Feel free to contribute by submitting pull requests or suggesting new ideas! 🚀
